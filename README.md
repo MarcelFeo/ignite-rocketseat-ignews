@@ -1,5 +1,4 @@
-<h1 align="center">
-Segundo projeto do IgniteRocketseat
+<h1 align="center">Ig.news
 </h1>
 
 ## 💻 Sobre o projeto
