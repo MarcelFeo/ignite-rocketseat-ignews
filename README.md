@@ -35,12 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone o Repositório
-$ git@github.com:tavareshenrique/ignite-reactjs.git
-```
-
-```bash
-# Acesse a pasta do projeto
-$ cd 03-ignews
+$ https://github.com/MarcelFeo/ignite-rocketseat-ignews.git
 ```
 
 ```bash
